@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-background-image:url(Image/bg-image.jpg);
+background-image:url(bg-image.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 font-family:'Josefin Sans', sans-serif;
